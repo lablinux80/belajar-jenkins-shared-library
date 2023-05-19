@@ -1,7 +1,7 @@
-deff name() {
+def name() {
 	"Alaric Gwyneth"
 }
 
-deff name() {
+def name() {
 	"Firdania"
 }
