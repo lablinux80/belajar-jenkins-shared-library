@@ -1,7 +1,11 @@
-def name() {
+def call(){
+	"Alaric Gwyneth - lablinux80"
+}
+
+def name(){
 	"Alaric Gwyneth"
 }
 
-def channel() {
+def channel(){
 	"lablinux80"
 }
