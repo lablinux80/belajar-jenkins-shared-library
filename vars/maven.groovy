@@ -1,3 +1,4 @@
-def call(String command) {
+def call(list commands) {
+	for (command in commands)
 	sh("./mvnw ${command}")
 }
